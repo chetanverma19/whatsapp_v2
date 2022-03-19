@@ -1,0 +1,21 @@
+[debug] [2021-08-14T04:59:00.295Z] ----------------------------------------------------------------------
+[debug] [2021-08-14T04:59:00.297Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\cheta\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-14T04:59:00.297Z] CLI Version:   9.16.2
+[debug] [2021-08-14T04:59:00.297Z] Platform:      win32
+[debug] [2021-08-14T04:59:00.297Z] Node Version:  v16.4.2
+[debug] [2021-08-14T04:59:00.298Z] Time:          Sat Aug 14 2021 10:29:00 GMT+0530 (India Standard Time)
+[debug] [2021-08-14T04:59:00.299Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-14T04:59:00.308Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-14T04:59:00.308Z] > authorizing via signed-in user (chetanverma19@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\TraQr Corp\WebDev\whatsapp-v2
+
